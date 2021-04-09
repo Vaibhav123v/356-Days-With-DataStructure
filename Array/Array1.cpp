@@ -1,6 +1,6 @@
 // C++-programs to find sum of elements in given array
 // array = [1,2,3,4,6,7,8]
-// sum = 1+2+3+4+6+7+8 = 25
+// sum = 1+2+3+4+6+7+8 = 31
 #include<iostream>
 using namespace std;
 int sum_of_elements(int array[],int size)
