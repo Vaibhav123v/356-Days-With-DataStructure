@@ -39,6 +39,6 @@ while row<m and column<n:
             print(a[i][column],end = " ")
         column = column+1
 # Time complexity is O(m*n) as we have to travaerse the matrix 
-#Generalization : We have to use for for loops for unpacking this matrix
+#Generalization : We have to use four for loops for unpacking this matrix
 
 
